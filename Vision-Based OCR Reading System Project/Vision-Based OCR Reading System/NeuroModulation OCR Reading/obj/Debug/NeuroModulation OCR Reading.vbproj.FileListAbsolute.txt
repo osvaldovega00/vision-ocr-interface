@@ -1,0 +1,134 @@
+C:\Users\vegacanc\AppData\Local\Temporary Projects\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.exe.config
+C:\Users\vegacanc\AppData\Local\Temporary Projects\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.exe
+C:\Users\vegacanc\AppData\Local\Temporary Projects\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.pdb
+C:\Users\vegacanc\AppData\Local\Temporary Projects\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.xml
+C:\Users\vegacanc\AppData\Local\Temporary Projects\NeuroModulation OCR Reading\bin\Debug\InputHelper.dll
+C:\Users\vegacanc\AppData\Local\Temporary Projects\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.vbprojResolveAssemblyReference.cache
+C:\Users\vegacanc\AppData\Local\Temporary Projects\NeuroModulation OCR Reading\obj\Debug\NeuroModulation_OCR_Reading.Form1.resources
+C:\Users\vegacanc\AppData\Local\Temporary Projects\NeuroModulation OCR Reading\obj\Debug\NeuroModulation_OCR_Reading.Resources.resources
+C:\Users\vegacanc\AppData\Local\Temporary Projects\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.vbproj.GenerateResource.Cache
+C:\Users\vegacanc\AppData\Local\Temporary Projects\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.exe
+C:\Users\vegacanc\AppData\Local\Temporary Projects\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.xml
+C:\Users\vegacanc\AppData\Local\Temporary Projects\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.pdb
+\\eu.boehringer.com\users\fre\users1\vegacanc\Desktop\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.exe.config
+\\eu.boehringer.com\users\fre\users1\vegacanc\Desktop\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.exe
+\\eu.boehringer.com\users\fre\users1\vegacanc\Desktop\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.xml
+\\eu.boehringer.com\users\fre\users1\vegacanc\Desktop\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.pdb
+\\eu.boehringer.com\users\fre\users1\vegacanc\Desktop\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.exe
+\\eu.boehringer.com\users\fre\users1\vegacanc\Desktop\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.pdb
+\\eu.boehringer.com\users\fre\users1\vegacanc\Desktop\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.xml
+\\eu.boehringer.com\users\fre\users1\vegacanc\Desktop\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\bin\Debug\InputHelper.dll
+\\eu.boehringer.com\users\fre\users1\vegacanc\Desktop\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.vbprojResolveAssemblyReference.cache
+\\eu.boehringer.com\users\fre\users1\vegacanc\Desktop\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation_OCR_Reading.Form1.resources
+\\eu.boehringer.com\users\fre\users1\vegacanc\Desktop\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation_OCR_Reading.Resources.resources
+\\eu.boehringer.com\users\fre\users1\vegacanc\Desktop\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.vbproj.GenerateResource.Cache
+C:\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.exe.config
+C:\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.exe
+C:\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.xml
+C:\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.pdb
+C:\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.exe
+C:\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.pdb
+C:\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.xml
+C:\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\bin\Debug\InputHelper.dll
+C:\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.vbprojResolveAssemblyReference.cache
+C:\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation_OCR_Reading.Form1.resources
+C:\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation_OCR_Reading.Resources.resources
+C:\NeuroModulation OCR Reading\NeuroModulation OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.vbproj.GenerateResource.Cache
+C:\NeuroModulation OCR Reading Application\NeuroModulation OCR Reading\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.exe.config
+C:\NeuroModulation OCR Reading Application\NeuroModulation OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.exe
+C:\NeuroModulation OCR Reading Application\NeuroModulation OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.xml
+C:\NeuroModulation OCR Reading Application\NeuroModulation OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.pdb
+C:\NeuroModulation OCR Reading Application\NeuroModulation OCR Reading\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.exe
+C:\NeuroModulation OCR Reading Application\NeuroModulation OCR Reading\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.pdb
+C:\NeuroModulation OCR Reading Application\NeuroModulation OCR Reading\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.xml
+C:\NeuroModulation OCR Reading Application\NeuroModulation OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation_OCR_Reading.Form1.resources
+C:\NeuroModulation OCR Reading Application\NeuroModulation OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation_OCR_Reading.Resources.resources
+C:\NeuroModulation OCR Reading Application\NeuroModulation OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.vbproj.GenerateResource.Cache
+C:\NeuroModulation OCR Reading Application\NeuroModulation OCR Reading\NeuroModulation OCR Reading\bin\Debug\Cognex.InSight.Controls.Display.dll
+C:\NeuroModulation OCR Reading Application\NeuroModulation OCR Reading\NeuroModulation OCR Reading\bin\Debug\Cognex.InSight.dll
+C:\NeuroModulation OCR Reading Application\NeuroModulation OCR Reading\NeuroModulation OCR Reading\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\NeuroModulation OCR Reading Application\NeuroModulation OCR Reading\NeuroModulation OCR Reading\bin\Debug\Newtonsoft.Json.dll
+C:\NeuroModulation OCR Reading Application\NeuroModulation OCR Reading\NeuroModulation OCR Reading\bin\Debug\Cognex.InSight.xml
+C:\NeuroModulation OCR Reading Application\NeuroModulation OCR Reading\NeuroModulation OCR Reading\bin\Debug\Cognex.InSight.Controls.Display.xml
+C:\NeuroModulation OCR Reading Application\NeuroModulation OCR Reading\NeuroModulation OCR Reading\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\NeuroModulation OCR Reading Application\NeuroModulation OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.vbprojAssemblyReference.cache
+C:\NeuroModulation OCR Reading Application\NeuroModulation OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.vbproj.CoreCompileInputs.cache
+C:\NeuroModulation OCR Reading Application\NeuroModulation OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.vbproj.CopyComplete
+C:\BSC Dorado OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.exe.config
+C:\BSC Dorado OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.exe
+C:\BSC Dorado OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.pdb
+C:\BSC Dorado OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.xml
+C:\BSC Dorado OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\bin\Debug\Cognex.InSight.Controls.Display.dll
+C:\BSC Dorado OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\bin\Debug\Cognex.InSight.dll
+C:\BSC Dorado OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\BSC Dorado OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\bin\Debug\Newtonsoft.Json.dll
+C:\BSC Dorado OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\bin\Debug\Cognex.InSight.xml
+C:\BSC Dorado OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\bin\Debug\Cognex.InSight.Controls.Display.xml
+C:\BSC Dorado OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\BSC Dorado OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.vbprojAssemblyReference.cache
+C:\BSC Dorado OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation_OCR_Reading.Form1.resources
+C:\BSC Dorado OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation_OCR_Reading.Resources.resources
+C:\BSC Dorado OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.vbproj.GenerateResource.cache
+C:\BSC Dorado OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.vbproj.CoreCompileInputs.cache
+C:\BSC Dorado OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.vbproj.CopyComplete
+C:\BSC Dorado OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.exe
+C:\BSC Dorado OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.xml
+C:\BSC Dorado OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.pdb
+C:\NeuroModulation OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.exe.config
+C:\NeuroModulation OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.exe
+C:\NeuroModulation OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.pdb
+C:\NeuroModulation OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\bin\Debug\NeuroModulation OCR Reading.xml
+C:\NeuroModulation OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\bin\Debug\Cognex.InSight.Controls.Display.dll
+C:\NeuroModulation OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\bin\Debug\Cognex.InSight.dll
+C:\NeuroModulation OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\bin\Debug\Newtonsoft.Json.dll
+C:\NeuroModulation OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\bin\Debug\Cognex.InSight.xml
+C:\NeuroModulation OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\bin\Debug\Cognex.InSight.Controls.Display.xml
+C:\NeuroModulation OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\NeuroModulation OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.vbproj.AssemblyReference.cache
+C:\NeuroModulation OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation_OCR_Reading.Form1.resources
+C:\NeuroModulation OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation_OCR_Reading.Resources.resources
+C:\NeuroModulation OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.vbproj.GenerateResource.cache
+C:\NeuroModulation OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.vbproj.CoreCompileInputs.cache
+C:\NeuroModulation OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.exe
+C:\NeuroModulation OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.xml
+C:\NeuroModulation OCR Reading Application\BSC Dorado OCR Reading\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.pdb
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System\Vision-Based OCR Reading System\NeuroModulation OCR Reading\bin\Debug\Cognex.InSight.Controls.Display.dll
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System\Vision-Based OCR Reading System\NeuroModulation OCR Reading\bin\Debug\Cognex.InSight.dll
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System\Vision-Based OCR Reading System\NeuroModulation OCR Reading\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System\Vision-Based OCR Reading System\NeuroModulation OCR Reading\bin\Debug\Newtonsoft.Json.dll
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System\Vision-Based OCR Reading System\NeuroModulation OCR Reading\bin\Debug\Cognex.InSight.xml
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System\Vision-Based OCR Reading System\NeuroModulation OCR Reading\bin\Debug\Cognex.InSight.Controls.Display.xml
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System\Vision-Based OCR Reading System\NeuroModulation OCR Reading\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System\Vision-Based OCR Reading System\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.vbproj.AssemblyReference.cache
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System\Vision-Based OCR Reading System\NeuroModulation OCR Reading\obj\Debug\NeuroModulation_OCR_Reading.Form1.resources
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System\Vision-Based OCR Reading System\NeuroModulation OCR Reading\obj\Debug\NeuroModulation_OCR_Reading.Resources.resources
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System\Vision-Based OCR Reading System\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.vbproj.GenerateResource.cache
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System\Vision-Based OCR Reading System\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.vbproj.CoreCompileInputs.cache
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System\Vision-Based OCR Reading System\NeuroModulation OCR Reading\obj\Debug\NeuroMod.DA284774.Up2Date
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System\Vision-Based OCR Reading System\NeuroModulation OCR Reading\bin\Debug\ocr-reading.exe.config
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System\Vision-Based OCR Reading System\NeuroModulation OCR Reading\bin\Debug\ocr-reading.exe
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System\Vision-Based OCR Reading System\NeuroModulation OCR Reading\bin\Debug\ocr-reading.pdb
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System\Vision-Based OCR Reading System\NeuroModulation OCR Reading\bin\Debug\ocr-reading.xml
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System\Vision-Based OCR Reading System\NeuroModulation OCR Reading\obj\Debug\ocr-reading.exe
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System\Vision-Based OCR Reading System\NeuroModulation OCR Reading\obj\Debug\ocr-reading.xml
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System\Vision-Based OCR Reading System\NeuroModulation OCR Reading\obj\Debug\ocr-reading.pdb
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System Project\Vision-Based OCR Reading System\NeuroModulation OCR Reading\bin\Debug\ocr-reading.exe.config
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System Project\Vision-Based OCR Reading System\NeuroModulation OCR Reading\bin\Debug\ocr-reading.exe
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System Project\Vision-Based OCR Reading System\NeuroModulation OCR Reading\bin\Debug\ocr-reading.pdb
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System Project\Vision-Based OCR Reading System\NeuroModulation OCR Reading\bin\Debug\ocr-reading.xml
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System Project\Vision-Based OCR Reading System\NeuroModulation OCR Reading\bin\Debug\Cognex.InSight.Controls.Display.dll
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System Project\Vision-Based OCR Reading System\NeuroModulation OCR Reading\bin\Debug\Cognex.InSight.dll
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System Project\Vision-Based OCR Reading System\NeuroModulation OCR Reading\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System Project\Vision-Based OCR Reading System\NeuroModulation OCR Reading\bin\Debug\Newtonsoft.Json.dll
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System Project\Vision-Based OCR Reading System\NeuroModulation OCR Reading\bin\Debug\Cognex.InSight.xml
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System Project\Vision-Based OCR Reading System\NeuroModulation OCR Reading\bin\Debug\Cognex.InSight.Controls.Display.xml
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System Project\Vision-Based OCR Reading System\NeuroModulation OCR Reading\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System Project\Vision-Based OCR Reading System\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.vbproj.AssemblyReference.cache
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System Project\Vision-Based OCR Reading System\NeuroModulation OCR Reading\obj\Debug\NeuroModulation_OCR_Reading.Form1.resources
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System Project\Vision-Based OCR Reading System\NeuroModulation OCR Reading\obj\Debug\NeuroModulation_OCR_Reading.Resources.resources
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System Project\Vision-Based OCR Reading System\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.vbproj.GenerateResource.cache
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System Project\Vision-Based OCR Reading System\NeuroModulation OCR Reading\obj\Debug\NeuroModulation OCR Reading.vbproj.CoreCompileInputs.cache
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System Project\Vision-Based OCR Reading System\NeuroModulation OCR Reading\obj\Debug\NeuroMod.DA284774.Up2Date
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System Project\Vision-Based OCR Reading System\NeuroModulation OCR Reading\obj\Debug\ocr-reading.exe
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System Project\Vision-Based OCR Reading System\NeuroModulation OCR Reading\obj\Debug\ocr-reading.xml
+C:\Users\osval\OneDrive\Desktop\OCR Project\Vision-Based OCR Reading System\Vision-Based OCR Reading System Project\Vision-Based OCR Reading System\NeuroModulation OCR Reading\obj\Debug\ocr-reading.pdb

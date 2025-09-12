@@ -1,0 +1,56 @@
+<Data>
+
+	<Camera>
+		<IP></IP>
+		<Username></Username>
+		<Password></Password>
+		<TriggerDelay></TriggerDelay> <!--Delay between continous camera triggers in milli seconds, do not set below 100ms-->
+		<LightTriggerDelay></LightTriggerDelay> <!--Delay between high/low trigger value for Guardsoft-->
+		<JobName></JobName> <!--Cognex InSight job file used for inspection-->
+	</Camera>
+  
+	<Output>
+		<Lenght>180</Lenght>
+	</Output>
+	
+	<Access>
+		<OCR_Username></OCR_Username> <!--username-->
+		<OCR_Password></OCR_Password> <!--password-->
+	</Access>
+
+	<LogFiles>
+		<LogEnable>1</LogEnable><!-- Set to 1 to enable log files or set to 0 to disable lof files -->
+		<LogDirectory>C:\NeuroModulation OCR Reading Application\LogFiles</LogDirectory>
+	</LogFiles>
+	
+	<Focus>
+		<FocusEnable>0</FocusEnable> <!-- Set to 1 to enable focus active monitoring or set to 0 to bypass -->
+		<FocusMinValue>90</FocusMinValue> <!-- Focus reading minimum value that triggers an event -->
+	</Focus>
+	
+	<Products> <!--Products inspected, add as needed -->
+		<Prod_1>
+			<Name>Product 1</Name>
+			<Item>1</Item>
+		</Prod_1>
+		<Prod_2>
+			<Name>Product 2</Name>
+			<Item>2</Item>
+		</Prod_2>
+		<Prod_3>
+			<Name>Product 3</Name>
+			<Item>3</Item>
+		</Prod_3>
+		<Prod_4>
+			<Name>Product 4</Name>
+			<Item>4</Item>
+		</Prod_4>
+		<Prod_5>
+			<Name>Product 5</Name>
+			<Item>5</Item>
+		</Prod_5>
+		
+	</Products>
+
+ </Data>
+ 
